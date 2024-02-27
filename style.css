@@ -305,5 +305,11 @@ body {
     .navebar-s4{
         display: block;
     }
+
+}
+@media screen and (max-width:500px){
+    .categories{
+        display: none;
+    }
 }
 
