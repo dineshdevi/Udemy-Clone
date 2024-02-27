@@ -55,6 +55,10 @@ body {
     align-items: center;
 }
 
+.navebar-s4{
+    display: none;
+}
+
 .mylearning {
     position: relative;
     cursor: pointer;
@@ -298,5 +302,8 @@ body {
     .navbar-s2,.navbar-s3{
         display: none;
     }  
+    .navebar-s4{
+        display: block;
+    }
 }
 
